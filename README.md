@@ -1,2 +1,2 @@
 # html-css3
- Curso realzado sobre HTML5 e CSS3.
+ Curso realizado sobre HTML5 e CSS3.
